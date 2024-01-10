@@ -1,6 +1,6 @@
 # SCO-RAI: Societal Context Ontology for Responsible AI
 
-This repository contains the SCO-RAI Ontology and raw CSV annotations dataset for the paper: <add paper after pre-print available>
+This repository contains the SCO-RAI Ontology and raw CSV annotations dataset for the paper: TODO: add paper after pre-print available
 
 ## Overview
 SCO-RAI Ontology (OWL in RDF/XML format) includes both the base ontology and all annotations modeled as namedIndividuals, objectProperties and annotationProperties.
@@ -13,4 +13,4 @@ precepts in each excerpt. Triples of the knowledge graph describe key relationsh
 
 ## Citation
 
-<add citation link after pre-print available>
+TODO: add citation link after pre-print available
