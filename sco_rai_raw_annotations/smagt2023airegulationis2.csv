@@ -1,0 +1,33 @@
+,A,B,C,D,E,F
+1,~~~ Paper Details ~~~~, , , , ,
+2,bibliographicCitation, ,"{smagt2023airegulationis,
+    author = {Patrick van der Smagt and Laura Lucaj and Djalel Benbouzid},
+    title = {AI Regulation Is (not) All You Need},
+    year = 2023
+}", , ,
+3,~~~ Annotator Details ~~~~, , , , ,
+4,identifier,dk, , , ,
+5,role,annotator,DO NOT CHANGE, , ,
+6,generatedAtTime,2023-12-08, , , ,
+7,~~~ Class Instance / Individual Annotations starts below ~~~~, , , , ,
+8,individualName,type,sourceExcerpt,sourcePageNumber,sourceExtractedDescription,
+9,Controversy,Perceived_Problem,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,controversial systems,
+10,LackOfImpactAssessment,Perceived_Need,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,properly assessing their potential impact,
+11,COMPAS,Agent,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,COMPAS,
+12,RacialDisparity,Artifact,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,"disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population",
+13, , , , , ,
+14, , , , , ,
+15, , , , , ,
+16, , , , , ,
+17, , , , , ,
+18, , , , , ,
+19, , , , , ,
+20, , , , , ,
+21, , , , , ,
+22, , , , , ,
+23, , , , , ,
+24,~~~ Property / Axiom / Triple Annotations starts below ~~~~, , , , ,
+25,annotatedSource,annotatedProperty,annotatedTarget,sourceExcerpt,sourcePageNumber,sourceExtractedDescription
+26,COMPAS,hasProducedArtifact,RacialDisparity,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,"COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population"
+27,Controversy,constrainsAgent,COMPAS,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS,"
+28,LackOfImpactAssessment,constrainsAgent,COMPAS,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS, the algorithm has been shown to disproportionally predict high-risk scores of recidivism for African-American defendants, resulting in high false positive rates, whilst giving white defendants lower scores for similar cases, in turn resulting in high false negatives rates for the white population [11, 46]. Moreover, research has unveiled the inter-sectional accuracy disparities of commercial gender clas-sifiers [15].",1267,"Another example of deployment of controversial systems without properly assessing their potential impact, is the use of COMPAS,"
